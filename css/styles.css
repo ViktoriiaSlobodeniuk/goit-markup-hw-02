@@ -107,7 +107,7 @@
   text-transform: uppercase;
 }
 .feature-text {
-  color: #757575;
+  color: var(--secondary-txt-cl);
 }
 /* Чим ми займаємося */
 .work-title {
